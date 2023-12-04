@@ -28,7 +28,7 @@ JOIN patients AS pat
 	ON e.patient = pat.id
 WHERE start BETWEEN '2020-01-01 00:00' AND '2022-12-31 23:59'
 	AND pat.deathdate IS NULL
-	AND EXTRACT(year FROM age('2022-12-31', pat.birthdate)) >= 6
+	AND EXTRACT(year FROM age('2022-12-31', pat.birthdate)) / 2592000
 ),
 
 /*
