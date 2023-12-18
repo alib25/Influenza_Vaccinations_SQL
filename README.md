@@ -1,5 +1,8 @@
 # Influenza_Vaccinations_SQL
-[Visualization](https://public.tableau.com/views/Mass_InfluenzaActivity/InfluenzaDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+**Tableau Screenshot**
+<img width="1105" alt="Flu Screenshot" src="https://github.com/alib25/Influenza_Vaccinations_SQL/assets/149107691/863a32a5-ff9f-4947-8267-e4ac565df90f">
+
 
 **Project Overview**
 
